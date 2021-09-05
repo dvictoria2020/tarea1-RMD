@@ -15,8 +15,6 @@ interests:
 organizations:
 - name: ONU, Cambio Climático
   url: https://unfccc.int/
-- name: Global Optimism
-  url: http://christianafigueres.com/#/  
 role: Secretaria Ejecutiva de la Convención Marco de las Naciones Unidas sobre el Cambio Climático
 social:
 - icon: envelope
