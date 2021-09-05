@@ -15,7 +15,7 @@ interests:
 organizations:
 - name: ONU, Cambio Climático
   url: https://unfccc.int/
-role: Secretaria Ejecutiva de la Convención Marco de las Naciones Unidas sobre el Cambio Climático
+role: ExSecretaria Ejecutiva de la Convención Marco de las Naciones Unidas sobre el Cambio Climático
 social:
 - icon: envelope
   icon_pack: fas
