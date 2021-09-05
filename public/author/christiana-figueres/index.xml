@@ -5,26 +5,12 @@
     <link>https://academic-demo.netlify.app/author/christiana-figueres/</link>
       <atom:link href="https://academic-demo.netlify.app/author/christiana-figueres/index.xml" rel="self" type="application/rss+xml" />
     <description>Christiana Figueres</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/author/christiana-figueres/avatar_huf1072d15793797c615a42403e47b45ec_32191_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Christiana Figueres</title>
       <link>https://academic-demo.netlify.app/author/christiana-figueres/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://academic-demo.netlify.app/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Acción climática acelarada</title>
@@ -44,40 +30,23 @@
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Acción climática en 2015, el año del cambio transformador</title>
+      <link>https://academic-demo.netlify.app/post/writing-technical-content/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Este año se perfila como histórico para el futuro de nuestro planeta. Nunca antes había sido tan urgente la necesidad de abordar el cambio climático. Pero nunca antes la respuesta había cobrado tanto impulso.&lt;/p&gt;
+&lt;p&gt;Nunca olvidaré ser una de las más de 400.000 personas que piden una acción internacional sobre el cambio climático durante la Marcha por el Clima de los Pueblos en la ciudad de Nueva York en septiembre pasado. Nuestra voz colectiva, que lucha por el cambio, es cada vez más fuerte. Pero la gente no solo está llamando a la acción sobre el cambio climático, está tomando medidas sobre el cambio climático en todas partes del mundo, en todos los sectores de la sociedad&lt;/p&gt;
+&lt;h2 id=&#34;construyendo-ambición-mostrando-acciónexamples&#34;&gt;Construyendo ambición mostrando acciónExamples&lt;/h2&gt;
+&lt;p&gt;Creo que mostrar el gran liderazgo de las personas de todo el mundo que toman medidas sobre el cambio climático puede inspirar a los gobiernos nacionales a ser más ambiciosos en sus propias políticas y acciones, para que juntos el mundo pueda asegurar un nuevo acuerdo universal sobre el cambio climático en París más adelante. este año.&lt;/p&gt;
+&lt;p&gt;Los gobiernos se han puesto manos a la obra y se han puesto manos a la obra en el nuevo acuerdo. No se puede subestimar la importancia de lo que están haciendo. Están preparados para generar un cambio de paradigma, uno que verá al mundo avanzar hacia un desarrollo social y económico que sea ambientalmente sostenible.&lt;/p&gt;
+&lt;p&gt;Es por eso que insto a las organizaciones, ciudades, industrias, gobiernos y otros actores clave que están tomando la iniciativa en la lucha contra el cambio climático a que nominen sus actividades revolucionarias para que sean reconocidas por la iniciativa Momentum for Change de la secretaría de Cambio Climático de la ONU , y a que ser parte de este cambio de paradigma histórico.&lt;/p&gt;
+&lt;p&gt;Momentum for Change es parte de los esfuerzos intensificados para movilizar la acción y la ambición a medida que los gobiernos nacionales trabajan para adoptar un nuevo acuerdo climático universal este año. Las iniciativas ganadoras, llamadas ‘Actividades faro’, destacan algunos de los ejemplos más innovadores, escalables y replicables de lo que la gente está haciendo para abordar el cambio climático, para mostrar que la acción transformadora está en marcha.&lt;/p&gt;
+&lt;p&gt;Etiquetas&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cambio climático&lt;/li&gt;
+&lt;li&gt;ODS&lt;/li&gt;
+&lt;li&gt;Mitigación&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

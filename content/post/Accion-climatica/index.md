@@ -9,7 +9,7 @@ draft: false
 featured: false
 projects: []
 summary: "Los esfuerzos para mitigar el cambio climático tienden a centrarse en diseñar un cambio global hacia las energías renovables y restaurar la infraestructura ecológica del mundo. Pero si bien estos esfuerzos son cruciales, llevarán tiempo, por lo que también se necesitan medidas urgentes para reducir los contaminantes climáticos de corta duración como el hollín y el metano.."
-tags:
+Etiquetas:
 - Cambio climático
 - ODS
 - Mitigación
